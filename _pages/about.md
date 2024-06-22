@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left.
 
-My research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning.
+His research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 I got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
