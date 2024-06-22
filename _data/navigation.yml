@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/steamedbun.github.io/#-educations"
 
-  - title: "Invited Talks"
-    url: "/steamedbun.github.io/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/steamedbun.github.io/#-invited-talks"
 
   - title: "Internships"
     url: "/steamedbun.github.io/#-internships"
