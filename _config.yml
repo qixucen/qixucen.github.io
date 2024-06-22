@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "steamedbun"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "hello world"
 repository               : "qixucen/steamedbun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "steamedbun"
   avatar           : "images/bobby.png"
-  bio              : "Lorem ipsum College"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "qixucen"
   google_plus      :
   keybase          :
   instagram        :
