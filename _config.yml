@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "steamedbun"
 description              : "hello world"
-repository               : "qixucen/steamedbun.github.io"
+repository               : "steamedbun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
