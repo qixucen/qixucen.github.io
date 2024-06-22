@@ -42,11 +42,11 @@ My research interest includes LLM-based Multi-Agent system and LLM implicit/expl
 - *2024.6* Alibaba Global Mathematics Competition AI Challenge - Third Place Award🥉 (3th out of 563 teams) ($2000)
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
 - *2023.5* The Mathematical Contest in Modeling - Meritorious Award
-- *2022.12* National Mathematics Competition - Second Prize Award
+- *2022.12* The Chinese Mathematics Competitions - Second Prize Award
 
 # 📖 Educations
 - *2020.09 - 2024.06* Renmin University of China, Gaoling School of Aritficial Intelligence
 
 # 💻 Internships
-- *2023.9 - 2024.1* ![](images/kuaishou.png)Kuaishou Technology
+- *2023.9 - 2024.1* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kuaishou Technology
 - *2023.5 - 2023.7* Deep Space Symphony
