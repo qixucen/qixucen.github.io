@@ -48,5 +48,5 @@ My research interest includes LLM-based Multi-Agent system and LLM implicit/expl
 - *2020.09 - 2024.06* Renmin University of China, Gaoling School of Aritficial Intelligence
 
 # 💻 Internships
-- *2023.9 - 2024.1* Kuaishou Technology
+- *2023.9 - 2024.1* ![](images/kuaishou.png)Kuaishou Technology
 - *2023.5 - 2023.7* Deep Space Symphony
