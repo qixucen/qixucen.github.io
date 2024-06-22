@@ -49,4 +49,4 @@ My research interest includes LLM-based Multi-Agent system and LLM implicit/expl
 
 # 💻 Internships
 - *2023.9 - 2024.1* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kuaishou Technology
-- *2023.5 - 2023.7* Deep Space Symphony
+- *2023.5 - 2023.7* <img src="https://img.36krcdn.com/hsossms/20230424/v2_06078b14341f4486835b4b05ec8d8fb4@000000_oswg7548oswg132oswg132_img_000" style="width: auto; height: 1em; vertical-align: middle;">Deep Space Symphony
