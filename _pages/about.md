@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left.
+Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left. I graduated from the School of Artificial Intelligence, Renmin University of China for my undergraduate studies, and I am honored to have been guided by Professor [Lin Yankai](https://linyankai.github.io/).
 
 His research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning.
 
