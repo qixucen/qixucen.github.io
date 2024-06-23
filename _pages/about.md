@@ -16,12 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left. He graduated from the School of Artificial Intelligence, Renmin University of China with a bachelor's degree and was fortunate to be guided by Professor [Lin Yankai](https://linyankai.github.io/).
+Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left. He graduated from the School of Artificial Intelligence at Renmin University of China with a bachelor's degree and was fortunate to be guided by Professor [Yankai Lin](https://linyankai.github.io/).
 
 He is a member of the hackathon team SuperCarryMan, which consists of his friends. The team has secured significant prizes in various competitions organized by prominent Chinese internet companies. Their motto is to venture forth like bounty hunters!
 
-His research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning. It began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the wonderful experience brought by continuous exploration.
-
+His research interests include LLM-based Multi-Agent systems and LLM implicit/explicit reasoning. This journey began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
 # 🔥 News
 - *2024.06.23*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
