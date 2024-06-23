@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left. He graduated from the School of Artificial Intelligence, Renmin University of China with a bachelor's degree and was fortunate to be guided by Professor [Lin Yankai](https://linyankai.github.io/).
 
-His research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning.
+His research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning. It began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the wonderful experience brought by continuous exploration.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
