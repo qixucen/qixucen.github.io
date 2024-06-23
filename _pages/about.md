@@ -21,8 +21,8 @@ Hello👋, here is a person who stumbled into the field of AI by accident and st
 His research interest includes LLM-based Multi-Agent system and LLM implicit/explicit reasoning. It began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the wonderful experience brought by continuous exploration.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
-- *2024.06*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
+- *2024.06.23*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
+- *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
 
 # 📝 Publications 
 
