@@ -49,7 +49,7 @@ His research interest includes LLM-based Multi-Agent system and LLM implicit/exp
 - *2022.12* The Chinese Mathematics Competitions - Second Prize Award
 
 # 📖 Educations
-- *2020.09 - 2024.06* Renmin University of China, Gaoling School of Aritficial Intelligence
+- *2020.09 - 2024.06* B. Eng in Artifial, Renmin University of China, Gaoling School of Aritficial Intelligence
 
 # 💻 Internships
 - *2023.9 - 2024.1* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kuaishou Technology
