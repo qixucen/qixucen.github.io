@@ -48,6 +48,7 @@ His research interests include LLM-based Multi-Agent systems and LLM implicit/ex
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
 \[[code](https://github.com/didiforgithub/Prompt-Navigator)\]
 - *2023.5* The Mathematical Contest in Modeling - Meritorious Award
+\[[pdf](https://www.overleaf.com/read/vpvcsksqyrfz#5df8c5)\]
 - *2022.12* The Chinese Mathematics Competitions - Second Prize Award
 
 # 📖 Educations
