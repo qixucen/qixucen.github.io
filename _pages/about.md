@@ -48,11 +48,11 @@ Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level
 <div class='paper-box-text' markdown="1"> -->
 
 # 🎖 Honors and Awards
-- *2024.6* Alibaba Global Mathematics Competition AI Challenge - Third Place Award🥉 (3th out of 563 teams) ($2000)
+- *2024.06* Alibaba Global Mathematics Competition AI Challenge - Third Place Award🥉 (3th out of 563 teams) ($2000)
 \[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
 \[[code](https://github.com/didiforgithub/Prompt-Navigator)\]
-- *2023.5* The Mathematical Contest in Modeling - Meritorious Award
+- *2023.05* The Mathematical Contest in Modeling - Meritorious Award
 \[[pdf](https://www.overleaf.com/read/vpvcsksqyrfz#5df8c5)\]
 - *2022.12* The Chinese Mathematics Competitions - Second Prize Award
 
@@ -60,5 +60,5 @@ Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level
 - *2020.09 - 2024.06* B. Eng in Artifial, Renmin University of China, Gaoling School of Aritficial Intelligence
 
 # 💻 Internships
-- *2023.9 - 2024.1* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kuaishou Technology
-- *2023.5 - 2023.7* <img src="https://img.36krcdn.com/hsossms/20230424/v2_06078b14341f4486835b4b05ec8d8fb4@000000_oswg7548oswg132oswg132_img_000" style="width: auto; height: 1em; vertical-align: middle;">Deep Space Symphony
+- *2023.09 - 2024.01* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kuaishou Technology
+- *2023.05 - 2023.07* <img src="https://img.36krcdn.com/hsossms/20230424/v2_06078b14341f4486835b4b05ec8d8fb4@000000_oswg7548oswg132oswg132_img_000" style="width: auto; height: 1em; vertical-align: middle;">Deep Space Symphony
