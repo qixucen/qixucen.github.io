@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello👋, here is a person who stumbled into the field of AI by accident and still hasn't left. He graduated from the Gaoling School of Artificial Intelligence at Renmin University of China with a bachelor's degree and was fortunate to be advised by Professor [Yankai Lin](https://linyankai.github.io/).
 
-He is a member of the hackathon team SuperCarryMan, which consists of his friends. The team has secured significant prizes in various competitions organized by prominent Chinese internet companies. Their motto is to venture forth like bounty hunters!
+He is passionate about hackathons and has been part of teams that have secured significant prizes in various competitions organized by prominent Chinese internet companies. His motto is to venture forth like bounty hunters!
 
 His research interests include LLM-based Multi-Agent systems and LLM implicit/explicit reasoning. This journey began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
 # 🔥 News
