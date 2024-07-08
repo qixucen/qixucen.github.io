@@ -20,7 +20,7 @@ Hello👋, here is a person who stumbled into the field of AI by accident and st
 
 He is passionate about hackathons and has been part of teams that have secured significant prizes in various competitions organized by prominent Chinese internet companies. His motto is to venture forth like bounty hunters!
 
-His research interests include LLM-based Multi-Agent systems and LLM implicit/explicit reasoning. This journey began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
+His research interests include LLM-based multi-agent systems and LLM implicit/explicit reasoning. This journey began during his internship at [Kuaishou](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
 # 🔥 News
 - *2024.06.23*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
