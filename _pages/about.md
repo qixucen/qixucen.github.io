@@ -57,7 +57,7 @@ Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level
 - *2022.12* The Chinese Mathematics Competitions - Second Prize Award
 
 # 📖 Educations
-- *2020.09 - 2024.06* B. Eng in Artifial, Renmin University of China, Gaoling School of Aritficial Intelligence <p align="right">Beijing, China</p>
+- *2020.09 - 2024.06* B. Eng in Artificial, Renmin University of China, Gaoling School of Artificial Intelligence <span style="float: right;">Beijing, China</span>
 
 # 💻 Internships
 - *2023.09 - 2024.01* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kuaishou Technology
