@@ -28,9 +28,7 @@ His research interests include LLM-based multi-agent systems and LLM implicit/ex
 
 # 📝 Publications 
 
-Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level through Reconstruction Agent
-
-(AAAI2025 Under Preparation)
+- Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level through Reconstruction Agent (AAAI2025 Under Preparation)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
