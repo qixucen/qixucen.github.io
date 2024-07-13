@@ -50,7 +50,7 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 \[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
 \[[code](https://github.com/didiforgithub/Prompt-Navigator)\]
-- *2023.05* The Mathematical Contest in Modeling - Meritorious Award
+- *2023.05* The International Mathematical Contest in Modeling (MCM) - Meritorious Award
 \[[pdf](https://www.overleaf.com/read/vpvcsksqyrfz#5df8c5)\]
 - *2022.12* The Chinese Mathematics Competitions - Second Prize Award
 
