@@ -61,10 +61,10 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 - *2023.09 - 2024.01* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kwai Technology
   - Research Focus: LLM-based Agents; Advanced Data Analysis
   - Main Contributions:
-  · Define the code for data analysis and visualization as a finite automaton process, by learning transfer equations as tools from successful trajectories, defining a correct trajectory through a finite number of ordered calls to functions in the transfer equation library.
-  · To address the challenge of white boxing, use retrieval-augmentation methods to provide a visual explanation process for each tool calling, enhancing users’ confidence in the results provided by the AI copilot.
+    - Define the code for data analysis and visualization as a finite automaton process, by learning transfer equations as tools from successful trajectories, defining a correct trajectory through a finite number of ordered calls to functions in the transfer equation library.
+    - To address the challenge of white boxing, use retrieval-augmentation methods to provide a visual explanation process for each tool calling, enhancing users’ confidence in the results provided by the AI copilot.
 - *2023.05 - 2023.07* <img src="https://img.36krcdn.com/hsossms/20230424/v2_06078b14341f4486835b4b05ec8d8fb4@000000_oswg7548oswg132oswg132_img_000" style="width: auto; height: 1em; vertical-align: middle;">Deep Space Symphony
   - Research Focus: Music-Driven Motion Diffusion; Controllable Generation
   - Main Contributions:
-  · Combine VQVAE and Diffusion: independently train VQVAE on motion sequences to obtain discrete code book of keyframe, add music features in the attention during the diffusion phase, then obtain the prior of VQVAE in the encoder stage, and restore it to a music-driven motion sequence in the decoder stage.
-  · Utilize choreography knowledge for fine-grained generation: edit discrete codes on time series and constrain discrete codes according to beats; perform lyrics-music separation for music with lyrics and repeat actions according to the lyrics.
+    - Combine VQVAE and Diffusion: independently train VQVAE on motion sequences to obtain discrete code book of keyframe, add music features in the attention during the diffusion phase, then obtain the prior of VQVAE in the encoder stage, and restore it to a music-driven motion sequence in the decoder stage.
+    - Utilize choreography knowledge for fine-grained generation: edit discrete codes on time series and constrain discrete codes according to beats; perform lyrics-music separation for music with lyrics and repeat actions according to the lyrics.
