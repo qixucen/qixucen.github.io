@@ -30,9 +30,9 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 
 - Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level through Reconstruction <br>
 
-- Graph-DPO: Preference Optimization on Reasoning Graph of LLM-based Multi-Agent<br>
+<!-- - Graph-DPO: Preference Optimization on Reasoning Graph of LLM-based Multi-Agent<br>
 
-- Meta Code Snippet Toolkit: Learning Transition Functions from Code Generation Trajectories<br>
+- Meta Code Snippet Toolkit: Learning Transition Functions from Code Generation Trajectories<br> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
