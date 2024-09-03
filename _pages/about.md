@@ -62,7 +62,7 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 - *2020.09 - 2024.06* B. Eng in Artificial, Renmin University of China, Gaoling School of Artificial Intelligence <span style="float: right;">Beijing, China</span>
 
 # 💬 Invited Talks
-I have given two speeches in Chinese about the Alibaba Global Mathematics Competition AI Challenge.
+I have given two speeches in Chinese about the Alibaba Global Mathematics Competition AI Challenge. Once there is a replay video link, I will update it in a timely manner.
 
 # 💻 Internships
 - *2023.09 - 2024.01* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kwai Technology
