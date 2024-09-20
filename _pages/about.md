@@ -28,7 +28,7 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 
 # 📝 Publications 
 
-- Hierarchical Topology of Thought: Enhancing Task Decomposition to a Higher Level through Reconstruction <br>
+- Under Review * 2 <br>
 
 <!-- - Graph-DPO: Preference Optimization on Reasoning Graph of LLM-based Multi-Agent<br>
 
