@@ -28,7 +28,7 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 
 # 📝 Publications and Preprints
 
-- Under Review * 1 <br>
+- Under Review * 1 about Automating Agentic Workflow Generation <br>
 
 <!-- - Graph-DPO: Preference Optimization on Reasoning Graph of LLM-based Multi-Agent<br>
 
