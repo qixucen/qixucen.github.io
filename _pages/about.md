@@ -28,7 +28,16 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 
 # 📝 Publications and Preprints
 
-- AFlow: Automating Agentic Workflow Generation [arxiv](https://arxiv.org/abs/2410.10762) <br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
+
+Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bingnan Zheng, Bang Liu, Yuyu Luo, Chenglin Wu
+
+We introduces AFlow, an automated framework that reformulates workflow optimization as a search problem over code-represented workflows, using Monte Carlo Tree Search to efficiently explore and refine workflows through code modification and execution feedback. By leveraging this approach, AFlow achieves superior performance compared to state-of-the-art baselines across multiple benchmarks, while also enabling smaller models to outperform larger ones at a fraction of the cost.
+
+</div>
 
 <!-- - Graph-DPO: Preference Optimization on Reasoning Graph of LLM-based Multi-Agent<br>
 
