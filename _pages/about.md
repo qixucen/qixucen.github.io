@@ -27,7 +27,7 @@ His research interests include LLM-based multi-agent, LLM implicit/explicit reas
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
 - *2024.05.29*: &nbsp;🥳🥳 My thesis has successfully passed the defense as a recommended thesis at Renmin University of China! Looking forward to the day it gets submitted for publication!
 
-# 📝 Publications and Preprints
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
