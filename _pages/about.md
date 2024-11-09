@@ -22,6 +22,7 @@ He is passionate about hackathons and has secured significant prizes in various 
 
 His research interests include LLM-based multi-agent, LLM reasoning and tool learning. This journey began during his internship at [Kwai](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
 # 🔥 News
+- *2024.11.08*  &nbsp;📑📑 Our paper was reported by Machine Heart (In chinese, 机器之心)!
 - *2024.10.15*: &nbsp;📑📑 Life's first paper! Please explore our innovative work on the Automated Agentic Workflow.
 - *2024.06.23*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
@@ -32,7 +33,7 @@ His research interests include LLM-based multi-agent, LLM reasoning and tool lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/didiforgithub/MetaGPT-MathAI/tree/main/examples/ags)\]
+AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/didiforgithub/MetaGPT-MathAI/tree/main/examples/ags)\]\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\]
 
 Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bingnan Zheng, Bang Liu, Yuyu Luo, Chenglin Wu
 
