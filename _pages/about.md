@@ -22,7 +22,7 @@ He is passionate about hackathons and has secured significant prizes in various 
 
 His research interests include LLM-based multi-agent and LLM reasoning. This journey began during his internship at [Kwai](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
 # 🔥 News
-- *2024.11.08*  &nbsp;📑📑 Our paper was reported by Machine Heart (In chinese, 机器之心)!
+- *2024.11.08*:  &nbsp;📑📑 Our paper was reported by Machine Heart (In chinese, 机器之心)!
 - *2024.10.15*: &nbsp;📑📑 Life's first paper! Please explore our innovative work on the Automated Agentic Workflow.
 - *2024.06.23*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
