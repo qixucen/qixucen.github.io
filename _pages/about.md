@@ -20,7 +20,8 @@ Hello👋, here is a person who stumbled into the field of AI by accident and st
 
 He is passionate about hackathons and has secured significant prizes in various competitions organized by prominent Chinese internet companies. His motto is to venture forth like bounty hunters!
 
-His research interests include LLM-based multi-agent and LLM reasoning. This journey began during his internship at [Kwai](https://www.kuaishou.com/), where he experienced the excitement of continuous exploration.
+His research interests primarily focus on Natural Language Processing (NLP), particularly Large Language Model (LLM)-based Agents and LLM Reasoning. Recently, his work has centered on agent-based workflow optimization and the development of a general reasoning framework leveraging inference-time optimization techniques. His research in this area began during his internship at [Kwai](https://www.kuaishou.com/), where he gained hands-on experience in exploring and advancing these technologies.
+
 # 🔥 News
 - *2024.11.08*: &nbsp;📑📑 Our paper was reported by Machine Heart (In chinese, 机器之心)!
 - *2024.10.15*: &nbsp;📑📑 Life's first paper! Please explore our innovative work on the Automated Agentic Workflow.
