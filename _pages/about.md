@@ -52,6 +52,8 @@ We introduces AFlow, an automated framework that reformulates workflow optimizat
 
 # 📖 Educations
 - *2020.09 - 2024.06* B. Eng in Artificial, Renmin University of China, Gaoling School of Artificial Intelligence <span style="float: right;">Beijing, China</span>
+  - Graduation thesis recommendation
+
 
 # 💬 Invited Talks
 I have given two speeches in Chinese about the Alibaba Global Mathematics Competition AI Challenge. Once there is a replay video link, I will update it in a timely manner.
