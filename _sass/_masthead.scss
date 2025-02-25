@@ -12,6 +12,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  transition: box-shadow 0.3s ease;
 
   &__inner-wrap {
     @include container;
@@ -29,6 +30,14 @@
 
     a {
       text-decoration: none;
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding: 0.5em 0;
+    
+    &__menu-item {
+      font-size: 0.9em;
     }
   }
 }
