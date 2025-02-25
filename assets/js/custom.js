@@ -24,10 +24,40 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
   
-  // 添加滚动动画
-  const animateElements = document.querySelectorAll('.publication-item, .news-item, .award-item');
+  // 主题切换功能
+  const themeToggle = document.getElementById('theme-toggle');
+  const themeIcon = themeToggle.querySelector('i');
   
-  // 创建一个Intersection Observer来监测元素是否在视口中
+  // 检查用户之前是否设置了主题偏好
+  const currentTheme = localStorage.getItem('theme');
+  if (currentTheme === 'dark') {
+    document.body.classList.add('dark-theme');
+    themeIcon.classList.remove('fa-moon');
+    themeIcon.classList.add('fa-sun');
+  }
+  
+  // 点击按钮切换主题
+  themeToggle.addEventListener('click', function(e) {
+    e.preventDefault();
+    
+    // 在body上切换暗色主题类
+    document.body.classList.toggle('dark-theme');
+    
+    // 更新图标
+    if (document.body.classList.contains('dark-theme')) {
+      themeIcon.classList.remove('fa-moon');
+      themeIcon.classList.add('fa-sun');
+      localStorage.setItem('theme', 'dark');
+    } else {
+      themeIcon.classList.remove('fa-sun');
+      themeIcon.classList.add('fa-moon');
+      localStorage.setItem('theme', 'light');
+    }
+  });
+  
+  // 添加滚动动画
+  const animateElements = document.querySelectorAll('h1, h2, h3, p, ul, .profile_box');
+  
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
