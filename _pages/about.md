@@ -20,7 +20,7 @@ Hello👋, here is a person who stumbled into the field of AI by accident and st
 
 He is passionate about hackathons and has secured significant prizes in various competitions organized by prominent Chinese internet companies. His motto is to venture forth like bounty hunters!
 
-His research interests primarily focus on Natural Language Processing (NLP), particularly Large Language Model (LLM)-based Agents and LLM Reasoning. Recently, his work has centered on agentic workflow optimization and the development of reasoning frameworks leveraging inference-time scaling techniques. His research in this area began during his internship at [Kwai](https://www.kuaishou.com/), where he gained hands-on experience in exploring and advancing these technologies.
+His research interests primarily focus on Natural Language Processing (NLP), particularly LLM Agents and LLM Reasoning. Recently, his work has centered on agentic workflow optimization and the development of reasoning frameworks leveraging test-time scaling techniques.
 
 # 🔥 News
 - *2024.02.11*: &nbsp;🥳🥳 [AFlow](https://arxiv.org/abs/2410.10762) is accepted by ICLR 2025 as an <span style="color: red;">Oral</span>!
