@@ -22,7 +22,10 @@ He is passionate about hackathons and has secured significant prizes in various 
 
 His research interests primarily focus on Natural Language Processing (NLP), particularly LLM Agents and LLM Reasoning. Recently, his work has centered on agentic workflow optimization and the development of reasoning frameworks leveraging test-time scaling techniques.
 
+He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
+
 # 🔥 News
+- *2024.02.20*: &nbsp;🔥🔥 [AoT](https://arxiv.org/abs/2502.12018) has sparked extensive discussions on X! Check out the thread [@didiforx](https://x.com/didiforx/status/1895902471635288252)
 - *2024.02.11*: &nbsp;🥳🥳 [AFlow](https://arxiv.org/abs/2410.10762) is accepted by ICLR 2025 as an <span style="color: red;">Oral</span>!
 - *2024.10.15*: &nbsp;📑📑 Life's first paper! Please explore our innovative work on the Automated Agentic Workflow.
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
@@ -70,7 +73,7 @@ We introduce Atom of Thoughts (AoT), a novel reasoning framework that transforms
 # 💬 Invited Talks
 I have given two speeches in Chinese about the Alibaba Global Mathematics Competition AI Challenge. Once there is a replay video link, I will update it in a timely manner.
 
-# 💻 Internships
+# 📅 Internships
 - *2023.09 - 2024.01* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kwai Technology
   - Research Focus: LLM-based Agents; Advanced Data Analysis
 - *2023.05 - 2023.07* <img src="https://img.36krcdn.com/hsossms/20230424/v2_06078b14341f4486835b4b05ec8d8fb4@000000_oswg7548oswg132oswg132_img_000" style="width: auto; height: 1em; vertical-align: middle;">Deep Space Symphony
