@@ -25,7 +25,7 @@ His research interests primarily focus on Natural Language Processing (NLP), par
 He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
 
 # 🔥 News
-- *2024.03.01*: &nbsp;🔥🔥 [AoT](https://arxiv.org/abs/2502.12018) has ignited widespread discussions on X (270K+ Views in 48 hours)! Take a look at the [tweet](https://x.com/didiforx/status/1895902471635288252).
+- *2024.03.02*: &nbsp;🔥🔥 [AoT](https://arxiv.org/abs/2502.12018) has ignited widespread discussions on X (270K+ Views in 48 hours)! Take a look at the [tweet](https://x.com/didiforx/status/1895902471635288252).
 - *2024.02.11*: &nbsp;🥳🥳 [AFlow](https://arxiv.org/abs/2410.10762) is accepted by ICLR 2025 as an <span style="color: red;">Oral</span>!
 - *2024.10.15*: &nbsp;📑📑 Life's first paper! Please explore our innovative work on the Automated Agentic Workflow.
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
@@ -47,7 +47,7 @@ We introduces AFlow, an automated framework that reformulates workflow optimizat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[ARXIV]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]\[[huggingface daily](https://huggingface.co/papers/2502.12018)\]
+**[ARXIV]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]\[[huggingface daily](https://huggingface.co/papers/2502.12018)\]\[[tweet](https://x.com/didiforx/status/1895902471635288252)\]
 
 **Fengwei Teng**, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, Yuyu Luo
 
