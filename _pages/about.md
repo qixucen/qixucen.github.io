@@ -35,9 +35,9 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 <span style="color: red;">Oral</span></div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[ICLR 2025 Oral (1.8%)]** AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/didiforgithub/MetaGPT-MathAI/tree/main/examples/ags)\]\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\]
+**[ICLR 2025 Oral (1.8%)]** AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/geekan/MetaGPT)\]<img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\]
 
-Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bingnan Zheng, Bang Liu, Yuyu Luo, Chenglin Wu
+Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bang Liu, Yuyu Luo, Chenglin Wu
 
 We introduces AFlow, an automated framework that reformulates workflow optimization as a search problem over code-represented workflows, using Monte Carlo Tree Search to efficiently explore and refine workflows through code modification and execution feedback. By leveraging this approach, AFlow achieves superior performance compared to state-of-the-art baselines across multiple benchmarks, while also enabling smaller models to outperform larger ones at a fraction of the cost.
 
@@ -47,7 +47,7 @@ We introduces AFlow, an automated framework that reformulates workflow optimizat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[ARXIV]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]\[[huggingface daily](https://huggingface.co/papers/2502.12018)\]\[[tweet](https://x.com/didiforx/status/1895902471635288252)\]
+**[ARXIV]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=social" style="display: inline-block; vertical-align: middle;">\[[huggingface daily](https://huggingface.co/papers/2502.12018)\]\[[tweet](https://x.com/didiforx/status/1895902471635288252)\]
 
 **Fengwei Teng**, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, Yuyu Luo
 
@@ -58,9 +58,9 @@ We introduce Atom of Thoughts (AoT), a novel reasoning framework that transforms
 
 # 🎖 Honors and Awards
 - *2024.06* Alibaba Global Mathematics Competition AI Challenge - Third Place Award🥉 (3rd out of 563 teams) ($2000)
-\[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]
+\[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]<img src="https://img.shields.io/github/stars/didiforgithub/MetaGPT-MathAI?style=social" style="display: inline-block; vertical-align: middle;">
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
-\[[code](https://github.com/didiforgithub/Prompt-Navigator)\]
+\[[code](https://github.com/didiforgithub/Prompt-Navigator)\]<img src="https://img.shields.io/github/stars/didiforgithub/Prompt-Navigator?style=social" style="display: inline-block; vertical-align: middle;">
 - *2023.05* The International Mathematical Contest in Modeling (MCM) - Meritorious Award
 \[[pdf](https://www.overleaf.com/read/vpvcsksqyrfz#5df8c5)\]
 - *2022.12* The Chinese Mathematics Competitions - Second Prize Award
