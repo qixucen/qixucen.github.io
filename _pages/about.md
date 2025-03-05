@@ -20,7 +20,7 @@ Hello👋, here is a person who stumbled into the field of AI by accident and st
 
 He is passionate about hackathons and has secured significant prizes in various competitions organized by prominent Chinese internet companies.
 
-His research interests primarily focus on Natural Language Processing (NLP), particularly LLM Agents and LLM Reasoning. Recently, his work has centered on agentic workflow optimization and the development of reasoning frameworks leveraging test-time scaling techniques.
+His research interests primarily focus on Natural Language Processing (NLP), particularly in the area of LLM test-time scaling, related to various approaches including reasoning framework, reasoning model (like o1 and R1), and agentic workflow optimization.
 
 He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
 
