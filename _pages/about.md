@@ -52,7 +52,6 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
     <img src="https://img.shields.io/badge/h-index-{{ site.data.google_scholar_stats.h_index | default: 0 }}-blue?logo=google-scholar&style=flat" alt="Google Scholar h-index">
   </a>
   <script>
-    // 使用 google-scholar-stats 获取实时数据
     fetch('{{ url }}')
       .then(response => response.json())
       .then(data => {

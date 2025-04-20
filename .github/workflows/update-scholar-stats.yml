@@ -23,11 +23,12 @@ jobs:
           
       - name: Update stats
         run: |
-          google-scholar-stats --user HLT8CC8AAAAJ --output _data/google_scholar_stats.yml
+          google-scholar-stats --user HLT8CC8AAAAJ --output _data/google_scholar_stats.json
+          echo '{"schemaVersion": 1, "label": "Citations", "message": "'$(cat _data/google_scholar_stats.json | jq -r '.citations')'", "color": "blue"}' > _data/google_scholar_stats_shields.json
           
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add _data/google_scholar_stats.yml
+          git add _data/google_scholar_stats.json _data/google_scholar_stats_shields.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Google Scholar stats" && git push) 
