@@ -44,6 +44,12 @@ His research interests lie primarily in Natural Language Processing (NLP), with 
 
 He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
 
+<div class="metrics">
+  <a href="https://scholar.google.com/citations?user=HLT8CC8AAAAJ" class="metrics-link">
+    <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" style="margin: 0 0.5em;">
+  </a>
+</div>
+
 # 🔥 News
 
 - *2024.03.02*: &nbsp;🔥🔥 [AoT](https://arxiv.org/abs/2502.12018) has ignited widespread discussions on X (380K+ Views)! Take a look at the [post](https://x.com/didiforx/status/1895902471635288252).
