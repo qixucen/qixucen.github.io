@@ -52,12 +52,6 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 
 # 📝 Publications
 
-<div class="metrics">
-  <a href="https://scholar.google.com/citations?user=HLT8CC8AAAAJ" class="metrics-link">
-    <img src="https://img.shields.io/badge/Google%20Scholar-100%2B%20Citations-blue?logo=google-scholar&style=flat" style="margin: 0 0.5em;">
-  </a>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-iclr">ICLR 2025 Oral (1.8%)</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
