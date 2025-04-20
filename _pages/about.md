@@ -44,28 +44,6 @@ His research interests lie primarily in Natural Language Processing (NLP), with 
 
 He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
 
-<div class="scholar-stats">
-  <a href="https://scholar.google.com/citations?user=HLT8CC8AAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Citations-{{ site.data.google_scholar_stats.citations | default: 0 }}-blue?logo=google-scholar&style=flat" alt="Google Scholar Citations">
-  </a>
-  <a href="https://scholar.google.com/citations?user=HLT8CC8AAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/h-index-{{ site.data.google_scholar_stats.h_index | default: 0 }}-blue?logo=google-scholar&style=flat" alt="Google Scholar h-index">
-  </a>
-  <script>
-    fetch('{{ url }}')
-      .then(response => response.json())
-      .then(data => {
-        document.querySelectorAll('.scholar-stats img').forEach(img => {
-          if (img.alt.includes('Citations')) {
-            img.src = img.src.replace(/Citations-\d+/, `Citations-${data.citations}`);
-          } else if (img.alt.includes('h-index')) {
-            img.src = img.src.replace(/h-index-\d+/, `h-index-${data.h_index}`);
-          }
-        });
-      });
-  </script>
-</div>
-
 # 🔥 News
 
 - *2024.03.02*: &nbsp;🔥🔥 [AoT](https://arxiv.org/abs/2502.12018) has ignited widespread discussions on X (380K+ Views)! Take a look at the [post](https://x.com/didiforx/status/1895902471635288252).
