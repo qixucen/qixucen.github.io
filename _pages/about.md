@@ -51,9 +51,10 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
 
 # 📝 Publications
+
 <div class="metrics">
   <a href="https://scholar.google.com/citations?user=HLT8CC8AAAAJ" class="metrics-link">
-    <img src="https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?logo=google-scholar&style=flat" style="margin: 0 0.5em;">
+    <img src="https://img.shields.io/badge/Google%20Scholar-100%2B%20Citations-blue?logo=google-scholar&style=flat" style="margin: 0 0.5em;">
   </a>
 </div>
 
