@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Fengwei Teng - AI Researcher | NLP | LLM | PhD Candidate"
+excerpt: "Fengwei Teng is an AI researcher specializing in Natural Language Processing and Large Language Models. Currently pursuing PhD opportunities with research focus on LLM test-time scaling, reasoning frameworks, and agentic workflow optimization."
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,13 +36,13 @@ redirect_from:
 {% assign url = ssDataBaseUrl | append: "semantic-scholar-stats/semantic_scholar_stats_shields.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello👋, here is a person who stumbled into  the field of AI by accident and still hasn't left. He graduated from the Gaoling School of Artificial Intelligence at Renmin University of China with a bachelor's degree.
+Hello👋, I'm Fengwei Teng, an AI researcher who stumbled into the field of AI by accident and still hasn't left. I graduated from the Gaoling School of Artificial Intelligence at Renmin University of China with a bachelor's degree.
 
-He is passionate about hackathons and has secured significant prizes in various competitions organized by prominent Chinese internet companies. Nowadays, he is more involved as a hackathon organizer.
+I am passionate about hackathons and have secured significant prizes in various competitions organized by prominent Chinese internet companies. Nowadays, I am more involved as a hackathon organizer.
 
-His research interests lie primarily in Natural Language Processing (NLP), with a focus on LLM test-time scaling through approaches including reasoning frameworks, reasoning models (e.g., o1 and R1), and agentic workflow optimization.
+My research interests lie primarily in Natural Language Processing (NLP), with a focus on LLM test-time scaling through approaches including reasoning frameworks, reasoning models (e.g., o1 and R1), and agentic workflow optimization.
 
-He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
+I am currently seeking PhD opportunities. It's a long journey, but I never lack the perseverance to grow through adversity.
 
 # 🔥 News
 
