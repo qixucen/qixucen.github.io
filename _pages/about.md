@@ -93,7 +93,8 @@ We introduce Atom of Thoughts (AoT), a novel reasoning framework that transforms
 
 # 💬 Invited Talks
 
-I have given two speeches in Chinese about the Alibaba Global Mathematics Competition AI Challenge. Once there is a replay video link, I will update it in a timely manner.
+- *2024.03* Invited Talk at HKUST NLP Group, hosted by [Prof. Junxian He](https://jxhe.github.io/)
+- *2024.02* Invited Talk at Monash Medical AI Group (MMAI), hosted by [Dr. Lie Ju](https://mmai.group/peoples/julie/)
 
 # 📅 Internships
 
