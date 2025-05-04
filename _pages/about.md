@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fengwei Teng - AI Researcher | NLP | LLM | PhD Candidate"
+title: "Fengwei Teng - Homepage"
 excerpt: "Fengwei Teng is an AI researcher specializing in Natural Language Processing and Large Language Models. Currently pursuing PhD opportunities with research focus on LLM test-time scaling, reasoning frameworks, and agentic workflow optimization."
 author_profile: true
 redirect_from: 
