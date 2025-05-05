@@ -94,8 +94,11 @@ We introduce Atom of Thoughts (AoT), a novel reasoning framework that transforms
 # 💬 Invited Talks
 
 ## Atom of Thoughts for Markov LLM Test-Time Scaling
+
 - *2025.04* Invited Talk at HKUST(GZ) LLM Seminar, hosted by [Prof. Zhijiang Guo](https://cartus.github.io/)
+
 - *2025.03* Invited Talk at HKUST NLP Group, hosted by [Prof. Junxian He](https://jxhe.github.io/)
+
 - *2025.03* Invited Talk at Monash Medical AI Group (MMAI), hosted by [Dr. Lie Ju](https://mmai.group/peoples/julie/)
 
 # 📅 Internships
