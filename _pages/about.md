@@ -100,7 +100,7 @@ We introduce Atom of Thoughts (AoT), a novel reasoning framework that transforms
 
 # 📅 Internships
 
-- *2023.09 - 2024.01* <img src="images/kuaishou.png" alt="" style="width: auto; height: 1em; vertical-align: middle;">Kwai Technology
+- *2023.09 - 2024.01* Kwai Technology
   - Research Focus: LLM-based Agents; Advanced Data Analysis
-- *2023.05 - 2023.07* <img src="https://img.36krcdn.com/hsossms/20230424/v2_06078b14341f4486835b4b05ec8d8fb4@000000_oswg7548oswg132oswg132_img_000" style="width: auto; height: 1em; vertical-align: middle;">Deep Space Symphony
+- *2023.05 - 2023.07* Deep Space Symphony
   - Research Focus: Music-Driven Motion Diffusion; Controllable Generation
