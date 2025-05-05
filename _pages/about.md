@@ -98,7 +98,6 @@ We introduce Atom of Thoughts (AoT), a novel reasoning framework that transforms
 - *2025.03* Invited Talk at HKUST NLP Group, hosted by [Prof. Junxian He](https://jxhe.github.io/)
 - *2025.03* Invited Talk at Monash Medical AI Group (MMAI), hosted by [Dr. Lie Ju](https://mmai.group/peoples/julie/)
 
-
 # 📅 Internships
 
 - *2023.09 - 2024.01* Kwai Technology
