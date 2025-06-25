@@ -2,6 +2,45 @@
 
 {% include seo.html %}
 
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Fengwei Teng",
+  "alternateName": "steamedbun",
+  "description": "{{ site.description }}",
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/images/me.png",
+  "sameAs": [
+    "https://github.com/qixucen",
+    "https://twitter.com/SteamedBun18755",
+    "https://www.semanticscholar.org/author/Fengwei-Teng/2325905355"
+  ],
+  "jobTitle": "AI Researcher",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Independent Researcher"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Renmin University of China",
+    "department": "Gaoling School of Artificial Intelligence"
+  },
+  "knowsAbout": [
+    "Natural Language Processing",
+    "Large Language Models", 
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Test-time Scaling",
+    "Reasoning Frameworks",
+    "Multi-Agent Systems"
+  ],
+  "email": "{{ site.author.email }}",
+  "nationality": "Chinese"
+}
+</script>
+
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

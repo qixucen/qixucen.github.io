@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Fengwei Teng"
-description              : "I am losing weight to update my photos as soon as possible..."
-repository               : "qixucen.github.io"
+description              : "Fengwei Teng is an AI researcher specializing in Natural Language Processing and Large Language Models. Currently pursuing PhD opportunities with research focus on LLM test-time scaling, reasoning frameworks, and agentic workflows."
+repository               : "qixucen/qixucen.github.io"
 google_scholar_stats_use_cdn : true
 url: "https://qixucen.github.io"
 
@@ -16,7 +16,7 @@ url: "https://qixucen.github.io"
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : "googlef8e75c2c4f861fdd"  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
