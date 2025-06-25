@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fengwei Teng"
-description              : "Fengwei Teng is an AI researcher specializing in Natural Language Processing and Large Language Models. Currently pursuing PhD opportunities with research focus on LLM test-time scaling, reasoning frameworks, and agentic workflows."
+description              : "Fengwei Teng"
 repository               : "qixucen/qixucen.github.io"
 google_scholar_stats_use_cdn : true
 url: "https://qixucen.github.io"
