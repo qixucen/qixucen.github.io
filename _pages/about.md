@@ -51,6 +51,7 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 
 # 🔥 News
 
+- *2025.09.19*: &nbsp;🥳🥳 [AoT](https://arxiv.org/abs/2502.12018) is accepted by NeurIPS 2025!
 - *2025.06.06*: &nbsp;🎤🎤 Gave an invited talk at [BAAI 2025](https://2025.baai.ac.cn/) in Beijing!
 - *2025.03.02*: &nbsp;🔥🔥 [AoT](https://arxiv.org/abs/2502.12018) has ignited widespread discussions on X (390K+ Views)! Take a look at the [post](https://x.com/didiforx/status/1895902471635288252).
 - *2025.02.11*: &nbsp;🥳🥳 [AFlow](https://arxiv.org/abs/2410.10762) is accepted by ICLR 2025 as an <span style="color: red;">Oral</span>!
@@ -58,22 +59,22 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-iclr">ICLR 2025 Oral (1.8%)</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[ICLR 2025 Oral (1.8%)]** AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/geekan/MetaGPT)\]<img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\] (机器之心)
-
-Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bang Liu, Yuyu Luo, Chenglin Wu
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/aot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/aot.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[NeurIPS 2025]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=social" style="display: inline-block; vertical-align: middle;">\[[post](https://x.com/didiforx/status/1895902471635288252)\]<img src="https://img.shields.io/badge/Views-390K+-blue?logo=x&style=flat" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/UPMC6aQ1zHtpHO4FL1eVdA)\] (机器之心)
 
 **Fengwei Teng**, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, Yuyu Luo
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-iclr">ICLR 2025 Oral (1.8%)</div><img src='images/aflow.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[ICLR 2025 Oral (1.8%)]** AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/geekan/MetaGPT)\]<img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\] (机器之心)
+
+Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bang Liu, Yuyu Luo, Chenglin Wu
 
 </div>
 </div>
