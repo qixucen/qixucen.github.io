@@ -57,7 +57,7 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 - *2025.02.11*: &nbsp;🥳🥳 [AFlow](https://arxiv.org/abs/2410.10762) is accepted by ICLR 2025 as an <span style="color: red;">Oral</span>!
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/aot.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
