@@ -64,7 +64,7 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 
 **[NeurIPS 2025]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=social" style="display: inline-block; vertical-align: middle;">\[[post](https://x.com/didiforx/status/1895902471635288252)\]<img src="https://img.shields.io/badge/Views-390K+-blue?logo=x&style=flat" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/UPMC6aQ1zHtpHO4FL1eVdA)\] (机器之心)
 
-**Fengwei Teng**, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, Yuyu Luo
+**Fengwei Teng**, Quan Shi, Zhaoyang Yu, Jiayi Zhang, Yuyu Luo, Chenglin Wu, Zhijiang Guo
 
 </div>
 </div>
