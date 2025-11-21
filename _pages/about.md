@@ -43,9 +43,7 @@ layout: default
 <span class='anchor' id='about-me'></span>
 Hello👋, here is a person who stumbled into  the field of AI by accident and still hasn't left. He graduated from the Gaoling School of Artificial Intelligence at Renmin University of China with a bachelor's degree.
 
-He is passionate about hackathons and has secured significant prizes in various competitions organized by prominent Chinese internet companies. Nowadays, he is more involved as a hackathon organizer.
-
-His research interests lie primarily in Natural Language Processing (NLP), with a focus on LLM test-time scaling through approaches including reasoning frameworks, reasoning models, and agentic workflow optimization.
+His research interests lie primarily in Natural Language Processing (NLP), with a focus on LLM test-time scaling through approaches including frameworks and post-training.
 
 He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
 
