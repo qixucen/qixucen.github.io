@@ -5,10 +5,6 @@ Allow: /
 Sitemap: https://qixucen.github.io/sitemap.xml
 
 # Allow search engines to crawl all content
-# Disallow crawling of admin areas if any
 Disallow: /admin/
 Disallow: /.git/
 Disallow: /_site/
-
-# Crawl-delay (optional, helps with server load)
-Crawl-delay: 1 
