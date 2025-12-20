@@ -84,9 +84,7 @@ Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Ch
 \[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]<img src="https://img.shields.io/github/stars/didiforgithub/MetaGPT-MathAI?style=social" style="display: inline-block; vertical-align: middle;">
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
 \[[code](https://github.com/didiforgithub/Prompt-Navigator)\]<img src="https://img.shields.io/github/stars/didiforgithub/Prompt-Navigator?style=social" style="display: inline-block; vertical-align: middle;">
-- *2023.05* The International Mathematical Contest in Modeling (MCM) - Meritorious Award
-\[[pdf](https://www.overleaf.com/read/vpvcsksqyrfz#5df8c5)\]
-- *2022.12* The Chinese Mathematics Competitions - Second Prize Award
+
 
 # 📖 Educations
 
