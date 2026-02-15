@@ -58,7 +58,7 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/aot.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="images/neurips.png" alt="NeurIPS" style="height: 1.1em; vertical-align: middle; margin-right: 0.25em;"> **[NeurIPS 2025]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=social" style="display: inline-block; vertical-align: middle;">\[[post](https://x.com/didiforx/status/1895902471635288252)\]<img src="https://img.shields.io/badge/Views-390K+-blue?logo=x&style=flat" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/UPMC6aQ1zHtpHO4FL1eVdA)\] (机器之心)
+<img src="images/neurips.png" alt="NeurIPS" style="height: 1.1em; vertical-align: middle; margin-right: 0.25em;"> **[NeurIPS 2025]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=social" style="display: inline-block; vertical-align: middle;">\[[post](https://x.com/didiforx/status/1895902471635288252)\]<img src="https://img.shields.io/badge/Views-390K+-blue?logo=x&style=flat" style="display: inline-block; vertical-align: middle; height: 20px; width: auto;">\[[report](https://mp.weixin.qq.com/s/UPMC6aQ1zHtpHO4FL1eVdA)\] (机器之心)
 
 **Fengwei Teng**, Quan Shi, Zhaoyang Yu, Jiayi Zhang, Yuyu Luo, Chenglin Wu, Zhijiang Guo
 
