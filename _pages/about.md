@@ -78,9 +78,9 @@ Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Ch
 # 🎖 Honors and Awards
 
 - *2024.06* Alibaba Global Mathematics Competition AI Challenge - Third Place Award🥉 (3rd out of 563 teams) ($2000)
-\[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]<img src="https://img.shields.io/github/stars/didiforgithub/MetaGPT-MathAI?style=social" style="display: inline-block; vertical-align: middle;">
+\[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]<img src="https://img.shields.io/github/stars/didiforgithub/MetaGPT-MathAI?style=social" style="display: inline-block; vertical-align: middle; height: 20px;">
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
-\[[code](https://github.com/didiforgithub/Prompt-Navigator)\]<img src="https://img.shields.io/github/stars/didiforgithub/Prompt-Navigator?style=social" style="display: inline-block; vertical-align: middle;">
+\[[code](https://github.com/didiforgithub/Prompt-Navigator)\]<img src="https://img.shields.io/github/stars/didiforgithub/Prompt-Navigator?style=social" style="display: inline-block; vertical-align: middle; height: 20px;">
 
 
 # 📖 Educations
