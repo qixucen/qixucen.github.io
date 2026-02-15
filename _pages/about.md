@@ -58,7 +58,7 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/aot.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="images/neurips.png" alt="NeurIPS" style="height: 1.1em; vertical-align: middle; margin-right: 0.25em;"> **[NeurIPS 2025]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=flat&labelColor=ffffff" style="display: inline-block; vertical-align: middle; height: 20px;">\[[post](https://x.com/didiforx/status/1895902471635288252)\]<img src="https://img.shields.io/badge/Views-390K+-blue?logo=x&style=flat" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/UPMC6aQ1zHtpHO4FL1eVdA)\] (机器之心)
+<img src="images/neurips.png" alt="NeurIPS" style="height: 1.1em; vertical-align: middle; margin-right: 0.25em;"> **[NeurIPS 2025]** Atom of Thoughts for Markov LLM Test-Time Scaling \[[paper](https://arxiv.org/abs/2502.12018)\]\[[code](https://github.com/qixucen/atom)\]<img src="https://img.shields.io/github/stars/qixucen/atom?style=social" style="display: inline-block; vertical-align: middle;">\[[post](https://x.com/didiforx/status/1895902471635288252)\]<img src="https://img.shields.io/badge/Views-390K+-blue?logo=x&style=flat" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/UPMC6aQ1zHtpHO4FL1eVdA)\] (机器之心)
 
 **Fengwei Teng**, Quan Shi, Zhaoyang Yu, Jiayi Zhang, Yuyu Luo, Chenglin Wu, Zhijiang Guo
 
@@ -68,7 +68,7 @@ He is still seeking PhD opportunities. It's a long journey, but he never lacks t
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/aflow.png?v=2' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src="images/iclr.png" alt="ICLR" style="height: 1.1em; vertical-align: middle; margin-right: 0.25em;"> **[ICLR 2025 Oral (1.8%)]** AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/FoundationAgents/AFlow)\]<img src="https://img.shields.io/github/stars/FoundationAgents/AFlow?style=flat&labelColor=ffffff" style="display: inline-block; vertical-align: middle; height: 20px;">\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\] (机器之心)
+<img src="images/iclr.png" alt="ICLR" style="height: 1.1em; vertical-align: middle; margin-right: 0.25em;"> **[ICLR 2025 Oral (1.8%)]** AFlow: Automating Agentic Workflow Generation \[[paper](https://arxiv.org/abs/2410.10762)\]\[[code](https://github.com/FoundationAgents/AFlow)\]<img src="https://img.shields.io/github/stars/FoundationAgents/AFlow?style=social" style="display: inline-block; vertical-align: middle;">\[[report](https://mp.weixin.qq.com/s/5YpPFYIpuCkSf0sJp0_RnQ)\] (机器之心)
 
 Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bang Liu, Yuyu Luo, Chenglin Wu
 
@@ -78,9 +78,9 @@ Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, **Fengwei Teng**, Xionghui Chen, Jiaqi Ch
 # 🎖 Honors and Awards
 
 - *2024.06* Alibaba Global Mathematics Competition AI Challenge - Third Place Award🥉 (3rd out of 563 teams) ($2000)
-\[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]<img src="https://img.shields.io/github/stars/didiforgithub/MetaGPT-MathAI?style=flat&labelColor=ffffff" style="display: inline-block; vertical-align: middle; height: 20px;">
+\[[code](https://github.com/didiforgithub/MetaGPT-MathAI)\]<img src="https://img.shields.io/github/stars/didiforgithub/MetaGPT-MathAI?style=social" style="display: inline-block; vertical-align: middle;">
 - *2023.12* Baidu & FounderPark AGI Hackathon - Second Place Award🥈 (¥10000)
-\[[code](https://github.com/didiforgithub/Prompt-Navigator)\]<img src="https://img.shields.io/github/stars/didiforgithub/Prompt-Navigator?style=flat&labelColor=ffffff" style="display: inline-block; vertical-align: middle; height: 20px;">
+\[[code](https://github.com/didiforgithub/Prompt-Navigator)\]<img src="https://img.shields.io/github/stars/didiforgithub/Prompt-Navigator?style=social" style="display: inline-block; vertical-align: middle;">
 
 
 # 📖 Educations
