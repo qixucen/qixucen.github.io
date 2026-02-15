@@ -1,0 +1,20 @@
+<script>
+(function() {
+  function formatCount(n) {
+    if (n >= 1e6) return (n / 1e6).toFixed(1).replace(/\.0$/, '') + 'M';
+    if (n >= 1e3) return (n / 1e3).toFixed(1).replace(/\.0$/, '') + 'K';
+    return String(n);
+  }
+  document.querySelectorAll('[data-github-stars]').forEach(function(el) {
+    var repo = el.getAttribute('data-github-stars');
+    var countEl = el.querySelector('.github-stars-count');
+    if (!repo || !countEl) return;
+    fetch('https://api.github.com/repos/' + repo)
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        if (data.stargazers_count != null) countEl.textContent = formatCount(data.stargazers_count);
+      })
+      .catch(function() {});
+  });
+})();
+</script>
