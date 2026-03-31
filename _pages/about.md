@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Fengwei Teng | Homepage - AI Researcher in NLP & Large Language Models"
-description: "Fengwei Teng's Personal Homepage. AI researcher specializing in Natural Language Processing and Large Language Models. Currently pursuing PhD opportunities with research focus on LLM test-time scaling, reasoning frameworks, and agentic workflows."
+description: "Fengwei Teng's Personal Homepage. AI researcher specializing in Natural Language Processing and Large Language Models, with research focus on LLM test-time scaling, reasoning frameworks, and agentic workflows."
 author_profile: true
 last_modified_at: 2025-12-10
 redirect_from: 
@@ -45,8 +45,6 @@ layout: default
 Hello👋, here is a person who stumbled into  the field of AI by accident and still hasn't left. He graduated from the Gaoling School of Artificial Intelligence at Renmin University of China with a bachelor's degree.
 
 His research interests lie primarily in Natural Language Processing (NLP), with a focus on LLM test-time scaling through approaches including frameworks and post-training.
-
-He is still seeking PhD opportunities. It's a long journey, but he never lacks the perseverance to grow through adversity.
 
 # 🔥 News
 
